@@ -11,7 +11,7 @@ Please refer to [README.md](two_stage/README.md) for detailed usage of the two-s
 ### Sequential Transformers
 ![model_sequential](figures/model_sequential.png)
 
-Please refer to [README.md](sequential/README.md) for detailed usage of the sequential (end-to-end) model variant.
+Please refer to [annotated_prtr.ipynb](sequential/annotated_prtr.ipynb) for implementation of the sequential (end-to-end) model variant.
 
 For more details, please see [Pose Recognition with Cascade Transformers](https://arxiv.org/abs/2104.06976) by [Ke Li*](https://github.com/ricolike), [Shijie Wang*](https://github.com/Losmerengues07), [Xiang Zhang*](https://xzhang.dev), [Yifan Xu](https://yfxu.com/), [Weijian Xu](https://weijianxu.com/), and [Zhuowen Tu](https://pages.ucsd.edu/~ztu/).
 
