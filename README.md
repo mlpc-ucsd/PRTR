@@ -16,7 +16,7 @@ Please refer to [annotated_prtr.ipynb](sequential/annotated_prtr.ipynb) for impl
 For more details, please see [Pose Recognition with Cascade Transformers](https://arxiv.org/abs/2104.06976) by [Ke Li*](https://github.com/ricolike), [Shijie Wang*](https://github.com/Losmerengues07), [Xiang Zhang*](https://xzhang.dev), [Yifan Xu](https://yfxu.com/), [Weijian Xu](https://weijianxu.com/), and [Zhuowen Tu](https://pages.ucsd.edu/~ztu/).
 
 ## Updates
-Code and pretrained models will be released soon.
+04/24/2021: Code, logs, and pre-trained models for two-stage PRTR are released
 
 ## Citation
 ```
