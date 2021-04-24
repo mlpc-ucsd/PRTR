@@ -6,7 +6,7 @@ This repository is the official implementation for [Pose Recognition with Cascad
 ### Two-stage Transformers
 ![model_two_stage](figures/model_two_stage.png)
 
-Please refer to [README.md](two_stage/README.md) for detailed usage of the two-stage model variant.
+Please refer to [README.md](two_stage/) for detailed usage of the two-stage model variant.
 
 ### Sequential Transformers
 ![model_sequential](figures/model_sequential.png)
