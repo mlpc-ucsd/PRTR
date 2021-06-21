@@ -1,7 +1,7 @@
 # PRTR: Pose Recognition with Cascade Transformers
 
 ## Introduction
-This repository is the official implementation for [Pose Recognition with Cascade Transformers](https://arxiv.org/abs/2104.06976). It proposes two types of cascade Transformers, as follows, for pose recognition.
+This repository is the official implementation for [Pose Recognition with Cascade Transformers](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Pose_Recognition_With_Cascade_Transformers_CVPR_2021_paper.html). It proposes two types of cascade Transformers, as follows, for pose recognition.
 
 ### Two-stage Transformers
 ![model_two_stage](figures/model_two_stage.png)
@@ -13,7 +13,7 @@ Please refer to [README.md](two_stage/) for detailed usage of the two-stage mode
 
 Please refer to [annotated_prtr.ipynb](sequential/annotated_prtr.ipynb) for implementation of the sequential (end-to-end) model variant.
 
-For more details, please see [Pose Recognition with Cascade Transformers](https://arxiv.org/abs/2104.06976) by [Ke Li*](https://github.com/ricolike), [Shijie Wang*](https://github.com/Losmerengues07), [Xiang Zhang*](https://xzhang.dev), [Yifan Xu](https://yfxu.com/), [Weijian Xu](https://weijianxu.com/), and [Zhuowen Tu](https://pages.ucsd.edu/~ztu/).
+For more details, please see [Pose Recognition with Cascade Transformers](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Pose_Recognition_With_Cascade_Transformers_CVPR_2021_paper.html) by [Ke Li*](https://github.com/ricolike), [Shijie Wang*](https://github.com/Losmerengues07), [Xiang Zhang*](https://xzhang.dev), [Yifan Xu](https://yfxu.com/), [Weijian Xu](https://weijianxu.com/), and [Zhuowen Tu](https://pages.ucsd.edu/~ztu/).
 
 ## Updates
 04/19/2021: Illustrative code for sequential PRTR is released  
@@ -21,13 +21,13 @@ For more details, please see [Pose Recognition with Cascade Transformers](https:
 
 ## Citation
 ```
-@misc{li2021pose,
-      title={Pose Recognition with Cascade Transformers}, 
-      author={Ke Li and Shijie Wang and Xiang Zhang and Yifan Xu and Weijian Xu and Zhuowen Tu},
-      year={2021},
-      eprint={2104.06976},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Li_2021_CVPR,
+    author    = {Li, Ke and Wang, Shijie and Zhang, Xiang and Xu, Yifan and Xu, Weijian and Tu, Zhuowen},
+    title     = {Pose Recognition With Cascade Transformers},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {1944-1953}
 }
 ```
 
